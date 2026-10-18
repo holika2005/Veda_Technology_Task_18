@@ -1,0 +1,801 @@
+Row ID,Order ID,Order Date,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+1,ORD-00001,2023-12-09,East,Furniture,Chairs,931.08,4,0.2,111.0
+2,ORD-00002,2023-09-28,East,Office Supplies,Labels,424.23,5,0.5,-66.3
+3,ORD-00003,2023-07-25,East,Furniture,Furnishings,249.1,10,0.3,-27.65
+4,ORD-00004,2023-09-29,West,Furniture,Bookcases,1007.06,6,0.2,-101.67
+5,ORD-00005,2024-08-09,West,Technology,Copiers,494.09,5,0.3,80.4
+6,ORD-00006,2024-05-27,Central,Office Supplies,Labels,676.21,8,0.5,141.2
+7,ORD-00007,2024-12-03,East,Furniture,Tables,301.47,3,0.2,17.27
+8,ORD-00008,2023-09-23,Central,Technology,Copiers,293.71,9,0.2,-50.55
+9,ORD-00009,2023-03-22,East,Office Supplies,Labels,225.78,2,0.3,-6.7
+10,ORD-00010,2024-11-28,West,Technology,Accessories,1147.99,3,0.5,272.79
+11,ORD-00011,2024-02-19,Central,Office Supplies,Labels,569.28,7,0.2,-85.51
+12,ORD-00012,2023-05-27,West,Technology,Copiers,987.1,6,0.5,233.82
+13,ORD-00013,2024-12-16,South,Furniture,Bookcases,615.96,10,0.2,-86.94
+14,ORD-00014,2024-10-29,East,Technology,Machines,1038.19,1,0.3,83.45
+15,ORD-00015,2024-09-13,West,Technology,Copiers,155.17,7,0.5,-0.29
+16,ORD-00016,2023-06-04,West,Office Supplies,Labels,1173.15,3,0.05,348.58
+17,ORD-00017,2023-04-06,South,Office Supplies,Paper,96.08,9,0.5,-11.87
+18,ORD-00018,2023-03-20,East,Furniture,Chairs,378.23,10,0.5,120.15
+19,ORD-00019,2023-04-19,East,Furniture,Furnishings,1298.82,2,0.1,-55.34
+20,ORD-00020,2024-02-11,South,Office Supplies,Storage,1011.28,9,0.2,182.42
+21,ORD-00021,2023-02-16,Central,Office Supplies,Envelopes,1296.85,5,0.2,-93.77
+22,ORD-00022,2023-05-20,East,Office Supplies,Storage,239.8,2,0.0,45.24
+23,ORD-00023,2024-07-25,South,Technology,Machines,375.31,9,0.3,-64.75
+24,ORD-00024,2023-11-19,Central,Office Supplies,Labels,1243.36,2,0.05,-29.33
+25,ORD-00025,2024-06-03,West,Technology,Machines,1082.55,7,0.5,-58.0
+26,ORD-00026,2023-07-14,Central,Technology,Phones,911.05,1,0.0,-5.07
+27,ORD-00027,2023-01-14,South,Technology,Copiers,106.51,4,0.05,7.56
+28,ORD-00028,2023-08-24,South,Furniture,Tables,1323.52,5,0.0,85.33
+29,ORD-00029,2024-05-26,East,Office Supplies,Envelopes,589.4,4,0.3,-42.17
+30,ORD-00030,2023-12-25,Central,Technology,Accessories,854.64,10,0.2,-53.1
+31,ORD-00031,2023-01-15,South,Technology,Phones,1286.14,9,0.3,333.43
+32,ORD-00032,2023-11-01,Central,Furniture,Chairs,1357.05,4,0.2,-249.71
+33,ORD-00033,2024-10-02,East,Furniture,Chairs,643.61,8,0.0,113.88
+34,ORD-00034,2024-03-31,West,Office Supplies,Paper,303.82,5,0.2,-17.82
+35,ORD-00035,2023-12-04,East,Office Supplies,Envelopes,1182.17,9,0.1,311.34
+36,ORD-00036,2024-11-02,South,Furniture,Bookcases,64.01,10,0.05,-0.56
+37,ORD-00037,2023-09-22,Central,Office Supplies,Paper,1341.15,4,0.2,-245.27
+38,ORD-00038,2023-12-09,Central,Office Supplies,Binders,225.68,7,0.1,-25.33
+39,ORD-00039,2023-07-06,South,Furniture,Chairs,1142.89,6,0.5,-126.38
+40,ORD-00040,2023-11-28,Central,Furniture,Chairs,791.42,1,0.05,112.1
+41,ORD-00041,2024-07-20,East,Office Supplies,Paper,435.83,10,0.1,104.67
+42,ORD-00042,2023-12-31,South,Office Supplies,Labels,408.92,8,0.1,2.31
+43,ORD-00043,2023-10-08,South,Technology,Machines,1101.64,3,0.5,306.11
+44,ORD-00044,2024-04-24,East,Office Supplies,Paper,514.81,4,0.2,-72.49
+45,ORD-00045,2023-12-19,South,Office Supplies,Paper,971.63,8,0.1,-112.51
+46,ORD-00046,2024-11-30,Central,Technology,Phones,554.29,7,0.0,33.93
+47,ORD-00047,2024-02-08,Central,Technology,Machines,508.76,2,0.2,128.78
+48,ORD-00048,2024-07-22,South,Office Supplies,Labels,493.02,7,0.1,36.92
+49,ORD-00049,2024-06-21,East,Technology,Accessories,1124.78,4,0.0,210.58
+50,ORD-00050,2024-03-08,West,Office Supplies,Paper,1131.63,6,0.3,289.59
+51,ORD-00051,2023-07-08,South,Technology,Copiers,830.69,3,0.0,-41.3
+52,ORD-00052,2023-12-02,East,Office Supplies,Envelopes,1079.76,8,0.0,36.57
+53,ORD-00053,2024-10-07,South,Office Supplies,Binders,1163.99,5,0.05,345.3
+54,ORD-00054,2023-07-31,East,Technology,Accessories,581.01,2,0.2,-29.75
+55,ORD-00055,2023-02-01,South,Technology,Accessories,300.86,10,0.5,84.83
+56,ORD-00056,2024-11-19,East,Furniture,Bookcases,1277.2,1,0.3,-189.72
+57,ORD-00057,2023-05-19,West,Technology,Phones,187.8,7,0.2,-19.06
+58,ORD-00058,2024-02-01,East,Technology,Machines,823.04,1,0.3,-12.45
+59,ORD-00059,2023-12-02,East,Office Supplies,Storage,1256.82,10,0.2,-237.81
+60,ORD-00060,2023-09-15,Central,Furniture,Chairs,732.62,1,0.5,133.33
+61,ORD-00061,2024-10-31,South,Technology,Copiers,1234.8,2,0.0,182.26
+62,ORD-00062,2023-12-08,Central,Furniture,Furnishings,168.32,5,0.2,50.78
+63,ORD-00063,2023-10-24,East,Office Supplies,Binders,559.52,2,0.05,36.65
+64,ORD-00064,2023-09-26,West,Furniture,Furnishings,1384.28,4,0.3,-274.03
+65,ORD-00065,2023-12-11,West,Technology,Accessories,173.78,9,0.2,24.01
+66,ORD-00066,2023-02-20,South,Technology,Copiers,270.33,1,0.3,-15.63
+67,ORD-00067,2023-05-23,West,Furniture,Tables,276.46,8,0.3,14.57
+68,ORD-00068,2024-01-07,Central,Furniture,Furnishings,730.17,9,0.05,79.87
+69,ORD-00069,2023-09-02,West,Technology,Copiers,315.97,10,0.2,53.62
+70,ORD-00070,2024-03-14,South,Office Supplies,Envelopes,1183.14,7,0.05,40.18
+71,ORD-00071,2024-10-03,South,Furniture,Chairs,1152.8,8,0.2,-60.88
+72,ORD-00072,2023-11-10,East,Furniture,Bookcases,1108.68,1,0.5,-191.35
+73,ORD-00073,2024-11-25,East,Technology,Machines,611.46,9,0.1,-120.75
+74,ORD-00074,2023-12-20,South,Furniture,Chairs,473.57,9,0.0,66.41
+75,ORD-00075,2023-02-13,East,Furniture,Tables,255.78,10,0.1,-2.09
+76,ORD-00076,2023-06-09,West,Furniture,Chairs,917.91,2,0.1,190.35
+77,ORD-00077,2024-01-18,West,Technology,Copiers,268.11,10,0.2,32.78
+78,ORD-00078,2024-12-09,Central,Furniture,Tables,122.85,9,0.3,-8.19
+79,ORD-00079,2024-03-15,West,Office Supplies,Storage,819.64,3,0.5,39.15
+80,ORD-00080,2023-12-24,West,Technology,Accessories,1187.42,3,0.3,131.08
+81,ORD-00081,2023-02-17,South,Office Supplies,Storage,986.49,4,0.05,-188.33
+82,ORD-00082,2023-04-05,East,Furniture,Furnishings,1006.62,3,0.0,-208.38
+83,ORD-00083,2024-09-29,East,Technology,Machines,1173.08,4,0.2,-250.37
+84,ORD-00084,2024-02-16,East,Furniture,Bookcases,1074.19,1,0.2,9.83
+85,ORD-00085,2024-07-15,East,Office Supplies,Envelopes,920.04,10,0.1,13.38
+86,ORD-00086,2023-09-30,East,Technology,Machines,1162.77,7,0.1,221.36
+87,ORD-00087,2023-05-04,South,Furniture,Bookcases,950.2,9,0.5,206.16
+88,ORD-00088,2024-07-25,Central,Technology,Phones,819.66,6,0.05,-127.98
+89,ORD-00089,2024-09-18,Central,Furniture,Furnishings,1206.11,8,0.2,-211.42
+90,ORD-00090,2024-09-17,East,Office Supplies,Storage,25.42,6,0.2,-2.7
+91,ORD-00091,2024-10-26,East,Office Supplies,Storage,805.83,6,0.05,148.14
+92,ORD-00092,2024-06-15,South,Furniture,Furnishings,225.94,4,0.2,29.46
+93,ORD-00093,2023-07-17,West,Technology,Accessories,898.92,9,0.0,52.79
+94,ORD-00094,2023-05-07,South,Office Supplies,Storage,628.97,3,0.3,66.91
+95,ORD-00095,2023-01-05,Central,Furniture,Bookcases,448.55,7,0.0,66.86
+96,ORD-00096,2023-01-26,West,Office Supplies,Binders,88.26,4,0.5,7.68
+97,ORD-00097,2023-03-06,Central,Technology,Machines,103.66,6,0.1,-15.73
+98,ORD-00098,2024-10-08,Central,Technology,Accessories,922.48,8,0.2,-110.77
+99,ORD-00099,2023-03-22,South,Technology,Phones,718.35,3,0.05,38.7
+100,ORD-00100,2023-02-09,Central,Furniture,Tables,383.72,5,0.1,-76.04
+101,ORD-00101,2024-09-24,East,Furniture,Bookcases,684.03,5,0.0,32.98
+102,ORD-00102,2024-10-04,West,Furniture,Furnishings,1349.17,5,0.1,368.15
+103,ORD-00103,2024-06-17,South,Furniture,Bookcases,619.35,2,0.5,48.05
+104,ORD-00104,2023-11-06,South,Furniture,Furnishings,464.82,6,0.0,95.25
+105,ORD-00105,2024-11-20,East,Furniture,Chairs,83.28,2,0.2,2.54
+106,ORD-00106,2024-12-10,South,Office Supplies,Labels,272.85,5,0.2,3.26
+107,ORD-00107,2023-02-11,East,Technology,Accessories,1371.12,6,0.5,181.67
+108,ORD-00108,2023-11-11,Central,Furniture,Bookcases,683.49,7,0.2,139.75
+109,ORD-00109,2023-10-08,Central,Technology,Copiers,746.47,9,0.05,109.24
+110,ORD-00110,2024-04-16,Central,Technology,Accessories,732.14,1,0.1,140.28
+111,ORD-00111,2023-08-01,Central,Technology,Phones,654.24,8,0.2,69.6
+112,ORD-00112,2023-09-14,South,Office Supplies,Envelopes,802.68,6,0.3,-29.27
+113,ORD-00113,2023-12-01,East,Furniture,Furnishings,1082.89,4,0.5,313.81
+114,ORD-00114,2023-11-26,West,Technology,Phones,935.65,9,0.1,178.41
+115,ORD-00115,2024-01-17,West,Furniture,Chairs,654.11,2,0.5,-44.06
+116,ORD-00116,2024-02-25,East,Office Supplies,Binders,417.13,9,0.1,13.39
+117,ORD-00117,2023-07-03,East,Technology,Phones,371.15,8,0.1,-76.25
+118,ORD-00118,2023-02-06,South,Furniture,Furnishings,813.84,7,0.0,166.0
+119,ORD-00119,2023-04-05,East,Technology,Phones,953.91,2,0.2,-170.12
+120,ORD-00120,2023-08-17,Central,Technology,Copiers,190.44,10,0.5,41.18
+121,ORD-00121,2024-05-15,Central,Office Supplies,Envelopes,807.7,10,0.05,119.77
+122,ORD-00122,2023-05-17,East,Office Supplies,Binders,648.4,2,0.05,197.16
+123,ORD-00123,2023-11-26,East,Technology,Accessories,1364.69,1,0.3,291.35
+124,ORD-00124,2024-12-18,Central,Technology,Phones,216.38,5,0.1,2.87
+125,ORD-00125,2024-03-07,South,Technology,Machines,685.36,10,0.3,-18.64
+126,ORD-00126,2023-06-08,South,Office Supplies,Paper,1269.21,8,0.2,328.06
+127,ORD-00127,2023-08-10,Central,Furniture,Furnishings,17.69,6,0.0,2.61
+128,ORD-00128,2023-03-08,West,Technology,Phones,478.81,2,0.05,111.29
+129,ORD-00129,2024-11-10,South,Office Supplies,Envelopes,38.2,5,0.3,6.54
+130,ORD-00130,2023-07-14,West,Office Supplies,Paper,448.51,2,0.2,-92.64
+131,ORD-00131,2024-10-03,East,Furniture,Bookcases,1132.42,7,0.1,61.85
+132,ORD-00132,2024-05-08,South,Furniture,Tables,524.89,6,0.1,-63.51
+133,ORD-00133,2024-03-28,South,Technology,Accessories,853.26,1,0.0,152.67
+134,ORD-00134,2024-10-15,West,Office Supplies,Binders,415.67,2,0.0,122.16
+135,ORD-00135,2023-03-29,Central,Furniture,Tables,1353.35,1,0.0,-255.37
+136,ORD-00136,2024-03-13,South,Office Supplies,Paper,324.16,8,0.0,-16.98
+137,ORD-00137,2024-08-14,East,Office Supplies,Labels,175.85,1,0.3,2.11
+138,ORD-00138,2023-12-25,East,Technology,Machines,706.47,1,0.1,-136.88
+139,ORD-00139,2024-01-20,East,Technology,Phones,757.9,9,0.05,83.51
+140,ORD-00140,2024-06-26,South,Office Supplies,Binders,903.36,5,0.2,-192.2
+141,ORD-00141,2024-05-30,South,Technology,Accessories,463.27,6,0.3,23.96
+142,ORD-00142,2024-02-11,South,Furniture,Chairs,484.09,10,0.5,30.91
+143,ORD-00143,2024-12-04,Central,Furniture,Tables,977.67,8,0.2,-35.78
+144,ORD-00144,2024-01-11,South,Furniture,Furnishings,1066.14,7,0.3,323.62
+145,ORD-00145,2024-05-28,West,Office Supplies,Paper,643.12,2,0.2,-65.82
+146,ORD-00146,2023-08-25,East,Furniture,Bookcases,1052.22,10,0.5,264.12
+147,ORD-00147,2023-09-01,East,Technology,Machines,294.0,3,0.1,-0.52
+148,ORD-00148,2023-11-05,East,Technology,Copiers,1274.51,5,0.3,-273.25
+149,ORD-00149,2024-11-01,West,Technology,Phones,1002.36,1,0.05,-142.11
+150,ORD-00150,2023-08-28,Central,Furniture,Tables,1000.91,8,0.3,-152.92
+151,ORD-00151,2024-01-29,Central,Office Supplies,Binders,1140.99,8,0.1,27.28
+152,ORD-00152,2024-10-26,Central,Technology,Machines,1184.51,9,0.3,371.47
+153,ORD-00153,2023-08-31,South,Furniture,Tables,79.76,5,0.0,-8.07
+154,ORD-00154,2024-01-02,West,Office Supplies,Envelopes,830.81,10,0.2,-162.01
+155,ORD-00155,2023-11-10,West,Furniture,Furnishings,1018.02,10,0.1,-87.58
+156,ORD-00156,2023-04-25,West,Technology,Accessories,535.26,8,0.3,130.93
+157,ORD-00157,2024-11-05,East,Technology,Copiers,888.16,1,0.2,-119.34
+158,ORD-00158,2024-09-30,East,Office Supplies,Envelopes,977.88,3,0.2,40.9
+159,ORD-00159,2024-08-28,South,Furniture,Furnishings,1060.92,10,0.5,114.87
+160,ORD-00160,2024-08-22,West,Furniture,Furnishings,1038.93,9,0.05,-35.84
+161,ORD-00161,2024-09-14,South,Furniture,Chairs,1205.85,7,0.1,118.01
+162,ORD-00162,2024-10-25,West,Office Supplies,Paper,153.36,5,0.2,-20.67
+163,ORD-00163,2024-07-11,West,Furniture,Chairs,1006.99,5,0.3,-42.95
+164,ORD-00164,2024-02-17,Central,Furniture,Bookcases,916.06,10,0.2,-127.07
+165,ORD-00165,2023-03-16,South,Office Supplies,Paper,672.05,8,0.05,115.3
+166,ORD-00166,2024-06-03,West,Technology,Accessories,23.6,10,0.3,6.48
+167,ORD-00167,2023-05-17,West,Furniture,Furnishings,1070.66,2,0.05,-73.46
+168,ORD-00168,2023-08-01,East,Technology,Phones,1175.57,5,0.1,284.67
+169,ORD-00169,2024-02-28,West,Technology,Accessories,770.8,1,0.5,41.96
+170,ORD-00170,2023-01-13,South,Furniture,Furnishings,1027.34,7,0.3,33.64
+171,ORD-00171,2023-02-25,West,Office Supplies,Envelopes,172.72,10,0.05,13.34
+172,ORD-00172,2024-05-21,Central,Technology,Accessories,608.36,10,0.2,-27.94
+173,ORD-00173,2023-10-11,East,Technology,Phones,447.9,6,0.1,21.26
+174,ORD-00174,2024-04-14,East,Furniture,Furnishings,413.45,3,0.05,-14.1
+175,ORD-00175,2024-08-26,West,Office Supplies,Storage,1163.92,3,0.5,117.15
+176,ORD-00176,2023-10-13,Central,Office Supplies,Labels,778.71,7,0.05,-53.32
+177,ORD-00177,2023-04-13,Central,Technology,Copiers,131.66,1,0.2,-25.3
+178,ORD-00178,2023-12-26,South,Furniture,Chairs,1384.51,4,0.1,358.53
+179,ORD-00179,2024-10-30,West,Technology,Machines,650.37,8,0.0,3.1
+180,ORD-00180,2024-01-09,West,Office Supplies,Envelopes,614.35,4,0.1,102.77
+181,ORD-00181,2023-10-06,South,Furniture,Furnishings,972.39,2,0.0,285.36
+182,ORD-00182,2023-01-06,East,Technology,Copiers,1330.69,1,0.3,60.02
+183,ORD-00183,2023-02-13,West,Furniture,Bookcases,947.63,10,0.1,88.55
+184,ORD-00184,2023-12-17,East,Technology,Accessories,637.64,7,0.3,129.93
+185,ORD-00185,2023-12-30,West,Technology,Machines,1087.05,5,0.05,-230.71
+186,ORD-00186,2024-12-29,East,Technology,Accessories,43.42,9,0.0,-3.19
+187,ORD-00187,2023-08-17,South,Office Supplies,Paper,211.59,4,0.2,2.77
+188,ORD-00188,2023-12-20,South,Office Supplies,Paper,1257.81,4,0.0,316.41
+189,ORD-00189,2023-03-18,South,Furniture,Furnishings,1022.66,2,0.5,47.81
+190,ORD-00190,2023-11-14,South,Office Supplies,Labels,470.49,9,0.0,134.3
+191,ORD-00191,2024-02-25,East,Technology,Machines,1029.68,8,0.2,265.62
+192,ORD-00192,2023-08-20,West,Office Supplies,Envelopes,725.7,10,0.3,135.46
+193,ORD-00193,2023-12-29,East,Office Supplies,Labels,264.87,2,0.3,11.96
+194,ORD-00194,2023-01-23,East,Furniture,Chairs,1353.85,3,0.5,411.34
+195,ORD-00195,2024-12-17,East,Technology,Copiers,832.56,1,0.2,95.12
+196,ORD-00196,2023-11-28,South,Technology,Machines,321.91,8,0.5,31.69
+197,ORD-00197,2024-10-08,South,Office Supplies,Labels,1123.64,9,0.3,-154.87
+198,ORD-00198,2024-01-03,East,Office Supplies,Binders,1369.3,4,0.5,425.16
+199,ORD-00199,2024-07-26,Central,Office Supplies,Envelopes,297.45,1,0.3,91.23
+200,ORD-00200,2024-02-19,Central,Office Supplies,Binders,167.43,2,0.5,-20.91
+201,ORD-00201,2024-09-18,Central,Technology,Copiers,587.52,2,0.05,117.83
+202,ORD-00202,2023-11-15,East,Office Supplies,Paper,988.53,6,0.5,150.81
+203,ORD-00203,2023-08-01,West,Technology,Copiers,1342.61,5,0.5,395.11
+204,ORD-00204,2024-08-03,West,Furniture,Chairs,345.35,8,0.2,-62.93
+205,ORD-00205,2024-12-04,Central,Furniture,Chairs,958.58,7,0.2,-83.09
+206,ORD-00206,2023-09-19,West,Furniture,Furnishings,301.97,4,0.2,-61.28
+207,ORD-00207,2023-09-17,Central,Furniture,Furnishings,370.35,3,0.1,91.26
+208,ORD-00208,2024-09-15,West,Furniture,Furnishings,896.11,4,0.05,73.38
+209,ORD-00209,2023-09-23,West,Furniture,Furnishings,1183.82,5,0.2,-225.34
+210,ORD-00210,2024-01-01,East,Furniture,Tables,478.25,1,0.05,11.11
+211,ORD-00211,2024-12-30,South,Technology,Machines,878.8,6,0.0,23.12
+212,ORD-00212,2024-10-10,West,Furniture,Chairs,705.97,8,0.1,193.99
+213,ORD-00213,2024-08-12,South,Office Supplies,Labels,1020.88,7,0.5,-44.77
+214,ORD-00214,2023-03-06,Central,Office Supplies,Binders,353.86,6,0.05,-17.87
+215,ORD-00215,2023-04-20,East,Technology,Machines,926.62,6,0.2,-125.61
+216,ORD-00216,2023-09-29,East,Office Supplies,Labels,158.49,7,0.2,16.94
+217,ORD-00217,2024-03-26,West,Furniture,Bookcases,349.72,2,0.0,47.64
+218,ORD-00218,2024-07-28,East,Furniture,Bookcases,212.94,10,0.3,21.13
+219,ORD-00219,2023-12-30,Central,Office Supplies,Labels,270.89,5,0.3,-11.1
+220,ORD-00220,2024-09-15,East,Technology,Machines,676.6,7,0.3,140.6
+221,ORD-00221,2023-04-28,West,Office Supplies,Labels,1395.36,2,0.3,-125.79
+222,ORD-00222,2023-12-13,Central,Office Supplies,Paper,861.03,2,0.2,-107.38
+223,ORD-00223,2023-05-01,South,Furniture,Tables,546.5,8,0.1,-101.46
+224,ORD-00224,2023-04-20,South,Technology,Accessories,443.77,10,0.3,88.44
+225,ORD-00225,2024-06-04,East,Furniture,Bookcases,1223.23,10,0.05,-149.28
+226,ORD-00226,2024-05-17,Central,Office Supplies,Binders,1167.48,6,0.5,-24.19
+227,ORD-00227,2023-02-08,West,Furniture,Bookcases,599.57,3,0.3,-31.88
+228,ORD-00228,2023-07-31,South,Furniture,Furnishings,1149.03,3,0.0,170.44
+229,ORD-00229,2024-05-01,West,Office Supplies,Paper,770.14,3,0.1,-0.71
+230,ORD-00230,2023-07-04,West,Technology,Accessories,786.49,9,0.5,17.31
+231,ORD-00231,2024-04-22,East,Office Supplies,Storage,366.02,5,0.3,42.17
+232,ORD-00232,2024-06-01,Central,Office Supplies,Envelopes,1024.78,6,0.3,-184.1
+233,ORD-00233,2024-08-16,East,Technology,Copiers,934.09,3,0.1,257.27
+234,ORD-00234,2023-05-29,Central,Office Supplies,Envelopes,1213.97,3,0.5,209.05
+235,ORD-00235,2023-07-04,East,Technology,Phones,661.5,8,0.0,-74.39
+236,ORD-00236,2023-01-30,West,Technology,Accessories,1379.84,2,0.2,376.45
+237,ORD-00237,2024-03-10,South,Technology,Accessories,738.8,7,0.3,-127.36
+238,ORD-00238,2023-04-06,West,Office Supplies,Envelopes,273.76,5,0.2,63.81
+239,ORD-00239,2024-09-30,East,Furniture,Furnishings,157.59,7,0.3,-13.18
+240,ORD-00240,2023-09-10,Central,Furniture,Furnishings,470.01,2,0.2,74.98
+241,ORD-00241,2023-09-26,West,Furniture,Furnishings,1028.45,6,0.05,195.81
+242,ORD-00242,2024-06-04,South,Office Supplies,Envelopes,131.17,4,0.0,0.86
+243,ORD-00243,2023-05-23,East,Office Supplies,Envelopes,696.74,3,0.2,-138.91
+244,ORD-00244,2024-01-12,East,Office Supplies,Envelopes,39.04,9,0.1,-6.7
+245,ORD-00245,2024-08-25,East,Technology,Copiers,842.67,8,0.5,146.83
+246,ORD-00246,2023-03-27,South,Technology,Phones,1026.54,2,0.2,270.85
+247,ORD-00247,2024-12-13,West,Technology,Accessories,496.09,6,0.0,-108.59
+248,ORD-00248,2024-01-03,South,Technology,Machines,1085.33,4,0.3,41.31
+249,ORD-00249,2023-01-24,East,Technology,Accessories,689.3,6,0.5,-89.34
+250,ORD-00250,2024-05-29,East,Technology,Phones,99.33,8,0.0,27.17
+251,ORD-00251,2024-07-21,East,Office Supplies,Labels,554.37,8,0.05,126.33
+252,ORD-00252,2024-04-27,South,Furniture,Tables,110.55,3,0.05,5.65
+253,ORD-00253,2023-07-15,Central,Furniture,Bookcases,503.38,1,0.0,-22.23
+254,ORD-00254,2024-11-07,East,Office Supplies,Envelopes,546.34,4,0.0,24.6
+255,ORD-00255,2023-05-13,Central,Technology,Machines,324.71,3,0.5,-25.34
+256,ORD-00256,2023-04-25,East,Office Supplies,Paper,991.57,5,0.0,-218.12
+257,ORD-00257,2024-04-17,South,Technology,Phones,846.29,5,0.1,267.02
+258,ORD-00258,2023-11-08,East,Technology,Phones,1355.29,6,0.05,-152.1
+259,ORD-00259,2024-01-04,East,Technology,Phones,515.51,6,0.1,2.01
+260,ORD-00260,2024-06-22,Central,Office Supplies,Storage,467.91,9,0.2,133.1
+261,ORD-00261,2024-04-11,South,Office Supplies,Envelopes,383.73,2,0.1,-3.35
+262,ORD-00262,2024-06-21,South,Furniture,Bookcases,961.51,7,0.1,-130.75
+263,ORD-00263,2023-02-01,West,Office Supplies,Storage,946.27,2,0.2,280.47
+264,ORD-00264,2024-09-08,South,Office Supplies,Paper,854.92,3,0.2,150.1
+265,ORD-00265,2023-03-10,East,Furniture,Chairs,637.42,8,0.3,-7.07
+266,ORD-00266,2023-04-18,South,Technology,Phones,1111.5,9,0.0,-22.55
+267,ORD-00267,2024-07-26,Central,Technology,Copiers,599.68,1,0.5,-104.81
+268,ORD-00268,2024-07-04,West,Office Supplies,Storage,1083.98,2,0.0,271.48
+269,ORD-00269,2024-12-26,West,Office Supplies,Storage,281.55,4,0.05,-41.14
+270,ORD-00270,2024-03-03,Central,Office Supplies,Storage,877.2,6,0.5,153.63
+271,ORD-00271,2023-03-01,Central,Furniture,Bookcases,794.25,4,0.5,-136.44
+272,ORD-00272,2023-12-13,West,Technology,Machines,933.9,6,0.1,261.59
+273,ORD-00273,2023-09-04,Central,Furniture,Bookcases,631.96,7,0.3,171.7
+274,ORD-00274,2023-02-28,East,Office Supplies,Labels,838.58,6,0.5,-59.1
+275,ORD-00275,2023-04-06,South,Technology,Copiers,1217.89,1,0.5,237.51
+276,ORD-00276,2024-05-19,South,Technology,Accessories,157.01,5,0.5,37.15
+277,ORD-00277,2023-10-22,East,Technology,Phones,90.37,3,0.1,-3.39
+278,ORD-00278,2024-10-09,South,Furniture,Bookcases,1045.25,2,0.2,-104.71
+279,ORD-00279,2023-02-01,West,Office Supplies,Storage,681.11,7,0.5,152.35
+280,ORD-00280,2024-01-20,East,Furniture,Tables,732.42,5,0.05,138.11
+281,ORD-00281,2024-03-11,West,Furniture,Furnishings,1165.09,1,0.05,-24.3
+282,ORD-00282,2024-02-24,South,Technology,Phones,191.6,1,0.1,-9.11
+283,ORD-00283,2023-07-20,South,Furniture,Bookcases,421.69,2,0.5,38.73
+284,ORD-00284,2023-02-18,West,Furniture,Bookcases,387.05,5,0.0,-17.88
+285,ORD-00285,2024-10-05,South,Technology,Accessories,1380.16,7,0.0,-123.25
+286,ORD-00286,2023-01-09,West,Technology,Copiers,906.1,9,0.0,-130.18
+287,ORD-00287,2023-01-02,East,Office Supplies,Storage,596.06,8,0.3,-17.42
+288,ORD-00288,2024-05-31,West,Technology,Phones,104.63,5,0.05,8.18
+289,ORD-00289,2023-01-23,South,Furniture,Tables,1209.24,1,0.2,-202.38
+290,ORD-00290,2023-03-13,East,Office Supplies,Paper,484.69,5,0.2,-43.82
+291,ORD-00291,2024-09-22,East,Furniture,Furnishings,1273.65,2,0.05,315.87
+292,ORD-00292,2024-09-29,Central,Office Supplies,Labels,773.99,2,0.3,216.14
+293,ORD-00293,2023-12-10,Central,Furniture,Furnishings,650.46,10,0.2,-57.28
+294,ORD-00294,2024-01-04,Central,Furniture,Bookcases,75.25,2,0.3,21.09
+295,ORD-00295,2023-07-25,East,Office Supplies,Paper,546.85,4,0.5,-45.0
+296,ORD-00296,2023-05-19,West,Furniture,Furnishings,135.92,4,0.05,-25.62
+297,ORD-00297,2024-03-11,South,Furniture,Bookcases,295.5,6,0.1,59.46
+298,ORD-00298,2023-08-03,South,Furniture,Chairs,727.79,8,0.5,-58.96
+299,ORD-00299,2024-06-02,West,Technology,Phones,1101.74,7,0.5,-47.07
+300,ORD-00300,2024-05-28,West,Office Supplies,Storage,914.14,6,0.1,141.12
+301,ORD-00301,2023-01-21,East,Technology,Accessories,141.22,5,0.3,27.5
+302,ORD-00302,2024-03-30,South,Technology,Phones,1342.75,3,0.0,422.82
+303,ORD-00303,2024-01-25,West,Office Supplies,Paper,344.52,10,0.0,71.98
+304,ORD-00304,2023-10-26,South,Furniture,Chairs,382.95,6,0.5,-83.97
+305,ORD-00305,2023-02-05,South,Technology,Copiers,247.95,10,0.5,13.97
+306,ORD-00306,2023-09-08,Central,Office Supplies,Paper,1291.04,2,0.0,324.32
+307,ORD-00307,2023-05-28,South,Furniture,Bookcases,16.18,6,0.05,-0.41
+308,ORD-00308,2023-02-25,East,Furniture,Furnishings,358.26,10,0.1,-70.15
+309,ORD-00309,2023-08-20,West,Office Supplies,Paper,164.48,1,0.0,-25.52
+310,ORD-00310,2023-05-14,South,Office Supplies,Binders,229.71,6,0.05,54.18
+311,ORD-00311,2023-06-29,West,Office Supplies,Binders,937.58,8,0.3,277.29
+312,ORD-00312,2023-03-04,South,Technology,Machines,811.28,7,0.2,-121.51
+313,ORD-00313,2024-11-07,South,Office Supplies,Labels,1171.1,6,0.2,210.92
+314,ORD-00314,2023-11-04,East,Office Supplies,Storage,1370.05,9,0.0,322.7
+315,ORD-00315,2023-04-02,West,Technology,Copiers,1377.95,2,0.1,-256.29
+316,ORD-00316,2023-04-12,South,Technology,Copiers,501.02,7,0.1,100.3
+317,ORD-00317,2023-08-16,South,Furniture,Chairs,1334.06,8,0.0,11.08
+318,ORD-00318,2024-09-28,Central,Technology,Copiers,388.35,9,0.2,-79.11
+319,ORD-00319,2024-07-19,East,Furniture,Furnishings,1120.32,3,0.5,-92.62
+320,ORD-00320,2024-09-06,Central,Office Supplies,Paper,1292.57,2,0.05,26.02
+321,ORD-00321,2024-12-21,Central,Furniture,Chairs,89.42,6,0.5,-18.61
+322,ORD-00322,2024-01-10,South,Office Supplies,Labels,1307.54,7,0.05,-203.08
+323,ORD-00323,2023-04-10,Central,Technology,Copiers,819.4,8,0.1,74.58
+324,ORD-00324,2023-06-06,West,Furniture,Chairs,419.59,3,0.5,23.76
+325,ORD-00325,2024-12-01,East,Office Supplies,Paper,1019.99,2,0.5,-219.32
+326,ORD-00326,2023-09-04,East,Technology,Accessories,1040.12,1,0.3,176.05
+327,ORD-00327,2024-02-23,Central,Furniture,Chairs,945.7,1,0.1,122.0
+328,ORD-00328,2024-02-18,South,Furniture,Furnishings,549.49,8,0.3,171.95
+329,ORD-00329,2024-03-08,South,Office Supplies,Storage,1389.21,8,0.1,-180.54
+330,ORD-00330,2024-09-17,West,Technology,Copiers,487.94,3,0.5,-53.54
+331,ORD-00331,2023-03-10,East,Technology,Machines,477.09,3,0.1,42.64
+332,ORD-00332,2023-12-03,East,Technology,Phones,558.75,9,0.1,-112.01
+333,ORD-00333,2023-11-13,Central,Technology,Phones,1034.25,5,0.05,13.74
+334,ORD-00334,2024-12-29,Central,Furniture,Furnishings,1373.05,4,0.0,147.68
+335,ORD-00335,2023-04-26,Central,Office Supplies,Labels,855.71,1,0.2,-98.62
+336,ORD-00336,2023-12-30,West,Office Supplies,Labels,771.92,2,0.5,-154.0
+337,ORD-00337,2023-02-03,West,Office Supplies,Envelopes,696.05,4,0.05,161.46
+338,ORD-00338,2024-05-08,West,Furniture,Bookcases,1191.11,9,0.2,-168.14
+339,ORD-00339,2024-08-15,West,Office Supplies,Paper,445.47,1,0.1,-13.46
+340,ORD-00340,2023-10-02,West,Technology,Phones,581.59,6,0.05,-27.5
+341,ORD-00341,2023-06-23,South,Office Supplies,Storage,1013.67,6,0.2,44.25
+342,ORD-00342,2023-11-27,South,Office Supplies,Paper,1101.61,3,0.0,-5.49
+343,ORD-00343,2023-09-07,Central,Technology,Copiers,1057.41,1,0.1,176.36
+344,ORD-00344,2023-05-19,Central,Furniture,Bookcases,830.32,2,0.3,-142.38
+345,ORD-00345,2024-06-23,South,Office Supplies,Storage,1329.0,6,0.0,215.3
+346,ORD-00346,2024-06-19,East,Furniture,Chairs,920.68,7,0.1,130.88
+347,ORD-00347,2023-07-06,Central,Furniture,Furnishings,372.29,3,0.3,-14.63
+348,ORD-00348,2024-06-15,South,Furniture,Bookcases,407.74,6,0.0,44.97
+349,ORD-00349,2024-07-05,East,Office Supplies,Binders,1305.87,5,0.3,-273.39
+350,ORD-00350,2024-03-18,Central,Office Supplies,Storage,1049.5,5,0.3,85.49
+351,ORD-00351,2023-12-03,East,Furniture,Chairs,614.0,7,0.05,187.74
+352,ORD-00352,2023-04-09,East,Office Supplies,Paper,174.36,8,0.5,-15.86
+353,ORD-00353,2024-12-22,East,Technology,Copiers,1099.1,6,0.0,-104.74
+354,ORD-00354,2024-12-16,West,Technology,Copiers,516.07,3,0.3,-23.06
+355,ORD-00355,2024-02-24,East,Furniture,Chairs,1131.69,4,0.05,-24.24
+356,ORD-00356,2024-05-13,West,Office Supplies,Binders,1241.72,10,0.1,243.52
+357,ORD-00357,2023-03-10,West,Technology,Copiers,823.99,10,0.05,67.26
+358,ORD-00358,2024-07-17,East,Technology,Accessories,1325.96,4,0.3,119.38
+359,ORD-00359,2024-07-22,West,Furniture,Chairs,466.94,9,0.5,-33.88
+360,ORD-00360,2024-04-14,West,Office Supplies,Envelopes,1083.12,6,0.5,-181.32
+361,ORD-00361,2023-06-20,South,Technology,Machines,853.64,1,0.1,147.57
+362,ORD-00362,2024-05-13,Central,Office Supplies,Envelopes,1191.61,7,0.1,-55.58
+363,ORD-00363,2023-01-14,East,Furniture,Bookcases,660.81,2,0.5,13.19
+364,ORD-00364,2024-02-14,West,Technology,Accessories,1115.7,1,0.0,265.16
+365,ORD-00365,2024-12-30,Central,Furniture,Furnishings,26.29,9,0.3,7.35
+366,ORD-00366,2023-10-15,Central,Office Supplies,Labels,345.27,8,0.1,58.31
+367,ORD-00367,2023-12-27,South,Technology,Copiers,1117.68,1,0.5,299.48
+368,ORD-00368,2023-02-18,South,Office Supplies,Envelopes,237.04,6,0.3,-23.22
+369,ORD-00369,2024-02-02,East,Technology,Machines,354.43,2,0.3,70.15
+370,ORD-00370,2024-01-01,South,Furniture,Chairs,557.18,3,0.1,77.24
+371,ORD-00371,2023-12-29,South,Office Supplies,Storage,59.33,6,0.05,4.42
+372,ORD-00372,2023-02-27,West,Technology,Accessories,426.83,2,0.5,37.01
+373,ORD-00373,2023-03-02,West,Office Supplies,Storage,567.42,3,0.1,-14.58
+374,ORD-00374,2023-12-16,West,Technology,Copiers,793.52,1,0.3,241.43
+375,ORD-00375,2024-09-17,South,Office Supplies,Binders,1190.57,6,0.1,0.88
+376,ORD-00376,2024-03-30,East,Furniture,Tables,962.11,10,0.3,133.49
+377,ORD-00377,2023-07-24,South,Furniture,Tables,916.07,5,0.1,160.5
+378,ORD-00378,2024-11-06,Central,Furniture,Tables,713.96,10,0.2,-57.61
+379,ORD-00379,2024-11-29,Central,Technology,Copiers,701.76,7,0.1,104.46
+380,ORD-00380,2024-10-17,Central,Furniture,Bookcases,318.58,4,0.3,-63.98
+381,ORD-00381,2023-08-29,West,Office Supplies,Binders,457.21,3,0.1,34.54
+382,ORD-00382,2023-08-19,East,Furniture,Chairs,416.64,7,0.0,-41.64
+383,ORD-00383,2024-06-20,West,Furniture,Bookcases,1329.51,1,0.3,286.71
+384,ORD-00384,2024-10-12,South,Office Supplies,Envelopes,750.3,9,0.2,-28.0
+385,ORD-00385,2023-09-24,South,Technology,Accessories,243.78,1,0.0,25.61
+386,ORD-00386,2023-09-14,East,Office Supplies,Paper,1251.46,8,0.5,-1.05
+387,ORD-00387,2024-10-25,East,Technology,Machines,700.45,1,0.0,-105.1
+388,ORD-00388,2024-10-09,South,Furniture,Furnishings,335.86,2,0.1,104.17
+389,ORD-00389,2024-04-07,West,Office Supplies,Labels,398.9,7,0.5,16.54
+390,ORD-00390,2023-02-11,Central,Furniture,Furnishings,1336.39,5,0.0,-66.97
+391,ORD-00391,2023-08-14,West,Technology,Machines,285.42,4,0.0,-35.34
+392,ORD-00392,2023-09-09,West,Furniture,Bookcases,684.86,1,0.2,-2.94
+393,ORD-00393,2024-02-23,South,Furniture,Chairs,717.72,5,0.1,-42.23
+394,ORD-00394,2023-05-02,Central,Office Supplies,Paper,1278.82,6,0.1,-213.07
+395,ORD-00395,2023-01-30,Central,Office Supplies,Labels,979.41,9,0.5,32.2
+396,ORD-00396,2023-07-25,Central,Furniture,Furnishings,467.87,5,0.0,49.99
+397,ORD-00397,2023-05-05,East,Office Supplies,Paper,1236.98,10,0.3,139.94
+398,ORD-00398,2023-05-26,East,Office Supplies,Storage,1284.82,6,0.1,-74.16
+399,ORD-00399,2023-02-08,South,Technology,Accessories,146.22,9,0.1,46.48
+400,ORD-00400,2023-10-15,West,Office Supplies,Labels,713.61,9,0.05,-7.54
+401,ORD-00401,2024-05-11,East,Office Supplies,Storage,876.76,9,0.05,-67.28
+402,ORD-00402,2023-11-15,Central,Office Supplies,Envelopes,1039.37,4,0.1,-65.37
+403,ORD-00403,2024-03-12,South,Technology,Accessories,433.93,3,0.5,-73.74
+404,ORD-00404,2024-05-11,South,Technology,Phones,1047.9,8,0.5,220.14
+405,ORD-00405,2024-08-21,East,Office Supplies,Envelopes,446.82,6,0.1,106.17
+406,ORD-00406,2023-05-20,West,Furniture,Chairs,1324.89,8,0.1,-221.33
+407,ORD-00407,2023-03-14,South,Technology,Accessories,503.48,10,0.5,23.09
+408,ORD-00408,2023-07-24,East,Technology,Accessories,1098.68,8,0.2,90.05
+409,ORD-00409,2023-10-30,West,Technology,Copiers,1357.77,9,0.1,-34.61
+410,ORD-00410,2024-08-28,East,Furniture,Furnishings,821.77,4,0.5,-35.75
+411,ORD-00411,2023-11-28,Central,Office Supplies,Labels,947.25,1,0.05,168.69
+412,ORD-00412,2024-12-09,Central,Furniture,Chairs,145.96,3,0.1,19.56
+413,ORD-00413,2023-05-30,West,Furniture,Tables,55.43,5,0.2,-10.73
+414,ORD-00414,2023-01-23,West,Office Supplies,Labels,859.5,3,0.2,-177.07
+415,ORD-00415,2023-03-21,Central,Technology,Machines,687.0,2,0.1,-111.57
+416,ORD-00416,2023-09-05,West,Technology,Phones,791.87,7,0.2,191.46
+417,ORD-00417,2023-06-06,South,Technology,Phones,164.96,4,0.3,31.91
+418,ORD-00418,2024-05-05,West,Technology,Accessories,1237.55,7,0.05,334.65
+419,ORD-00419,2023-11-10,East,Office Supplies,Storage,1342.35,10,0.0,259.9
+420,ORD-00420,2023-09-30,East,Office Supplies,Envelopes,1296.63,3,0.3,-269.0
+421,ORD-00421,2023-12-30,Central,Office Supplies,Envelopes,160.03,8,0.2,-15.15
+422,ORD-00422,2023-07-06,Central,Office Supplies,Labels,1260.99,7,0.5,-248.27
+423,ORD-00423,2023-03-31,Central,Furniture,Furnishings,149.0,6,0.2,-28.18
+424,ORD-00424,2023-06-10,West,Office Supplies,Binders,988.83,9,0.3,-128.04
+425,ORD-00425,2024-09-25,Central,Technology,Copiers,303.17,5,0.3,-0.92
+426,ORD-00426,2023-09-14,West,Technology,Machines,101.96,9,0.0,26.64
+427,ORD-00427,2024-04-10,West,Technology,Accessories,898.69,10,0.0,90.31
+428,ORD-00428,2024-11-11,East,Office Supplies,Storage,1351.09,8,0.2,75.86
+429,ORD-00429,2024-06-12,West,Office Supplies,Paper,422.62,1,0.2,-47.04
+430,ORD-00430,2024-08-26,Central,Office Supplies,Storage,1164.98,7,0.0,112.03
+431,ORD-00431,2023-02-04,Central,Office Supplies,Envelopes,947.01,6,0.2,-85.42
+432,ORD-00432,2024-07-06,Central,Office Supplies,Paper,589.65,4,0.5,131.57
+433,ORD-00433,2023-07-01,East,Technology,Accessories,499.97,6,0.0,-71.27
+434,ORD-00434,2024-08-20,Central,Furniture,Chairs,934.1,3,0.05,-150.98
+435,ORD-00435,2023-02-06,Central,Technology,Machines,148.68,2,0.3,-19.18
+436,ORD-00436,2024-07-10,South,Furniture,Bookcases,1320.46,1,0.05,415.27
+437,ORD-00437,2024-02-14,South,Technology,Accessories,1236.27,6,0.05,-49.8
+438,ORD-00438,2024-03-15,Central,Office Supplies,Storage,961.58,4,0.3,-102.15
+439,ORD-00439,2024-03-12,South,Furniture,Tables,1355.68,2,0.5,221.32
+440,ORD-00440,2024-05-15,South,Office Supplies,Binders,214.17,8,0.5,-23.93
+441,ORD-00441,2024-01-08,Central,Technology,Copiers,132.29,8,0.3,27.22
+442,ORD-00442,2024-03-29,Central,Furniture,Tables,127.61,8,0.3,36.67
+443,ORD-00443,2024-09-24,Central,Furniture,Chairs,200.25,10,0.1,-22.9
+444,ORD-00444,2023-04-19,East,Office Supplies,Paper,962.89,5,0.1,99.07
+445,ORD-00445,2023-08-26,West,Technology,Copiers,942.62,1,0.1,224.16
+446,ORD-00446,2024-11-06,West,Office Supplies,Storage,592.16,7,0.0,-22.31
+447,ORD-00447,2023-07-25,Central,Office Supplies,Labels,577.62,10,0.05,-2.33
+448,ORD-00448,2024-10-18,West,Technology,Machines,104.66,2,0.3,7.9
+449,ORD-00449,2024-07-03,Central,Office Supplies,Envelopes,371.33,5,0.5,5.31
+450,ORD-00450,2023-06-12,Central,Technology,Accessories,179.51,5,0.5,33.36
+451,ORD-00451,2024-04-08,South,Office Supplies,Storage,170.45,4,0.3,-19.04
+452,ORD-00452,2023-03-24,South,Furniture,Tables,1366.16,3,0.2,-151.97
+453,ORD-00453,2023-04-16,South,Technology,Phones,758.57,6,0.3,-61.31
+454,ORD-00454,2024-08-18,East,Technology,Phones,1349.41,6,0.2,231.57
+455,ORD-00455,2024-05-22,Central,Office Supplies,Envelopes,75.56,3,0.5,3.38
+456,ORD-00456,2023-01-26,East,Technology,Accessories,826.86,6,0.3,-85.43
+457,ORD-00457,2024-10-01,Central,Technology,Phones,508.45,10,0.2,-17.71
+458,ORD-00458,2024-07-21,South,Technology,Phones,873.42,9,0.5,220.97
+459,ORD-00459,2024-10-21,East,Furniture,Tables,1104.52,9,0.3,-10.62
+460,ORD-00460,2024-01-06,East,Office Supplies,Labels,436.18,1,0.0,6.39
+461,ORD-00461,2024-01-30,Central,Office Supplies,Labels,301.26,6,0.0,52.77
+462,ORD-00462,2024-09-27,West,Technology,Machines,1346.57,6,0.05,-285.34
+463,ORD-00463,2023-01-04,West,Office Supplies,Binders,1187.06,7,0.3,260.04
+464,ORD-00464,2024-09-07,South,Technology,Phones,188.97,1,0.0,24.4
+465,ORD-00465,2023-10-11,West,Office Supplies,Labels,375.87,4,0.3,70.7
+466,ORD-00466,2024-03-08,Central,Office Supplies,Envelopes,373.91,5,0.1,14.63
+467,ORD-00467,2023-04-10,West,Technology,Accessories,626.85,1,0.5,174.22
+468,ORD-00468,2024-09-09,West,Technology,Machines,970.72,8,0.5,36.12
+469,ORD-00469,2024-09-12,West,Technology,Copiers,1302.12,7,0.2,66.51
+470,ORD-00470,2024-10-21,South,Technology,Phones,1396.56,9,0.05,-29.37
+471,ORD-00471,2023-10-09,East,Furniture,Bookcases,141.55,2,0.2,33.74
+472,ORD-00472,2023-01-09,Central,Furniture,Chairs,1153.14,5,0.0,-136.93
+473,ORD-00473,2023-02-19,Central,Furniture,Chairs,85.1,5,0.05,-15.92
+474,ORD-00474,2024-05-23,East,Furniture,Tables,199.64,1,0.3,24.61
+475,ORD-00475,2023-08-27,East,Furniture,Tables,153.3,8,0.1,15.17
+476,ORD-00476,2023-10-20,West,Furniture,Furnishings,178.29,9,0.5,-3.29
+477,ORD-00477,2023-12-26,South,Office Supplies,Labels,1121.5,6,0.05,259.95
+478,ORD-00478,2023-08-10,West,Office Supplies,Envelopes,489.97,3,0.0,21.14
+479,ORD-00479,2023-03-17,Central,Furniture,Tables,105.77,5,0.2,-20.29
+480,ORD-00480,2023-03-24,Central,Office Supplies,Envelopes,1357.49,3,0.1,-116.22
+481,ORD-00481,2023-08-12,East,Furniture,Tables,331.21,9,0.05,-6.41
+482,ORD-00482,2023-05-02,South,Technology,Machines,1354.87,9,0.2,-227.23
+483,ORD-00483,2024-06-29,East,Technology,Phones,153.59,2,0.2,2.51
+484,ORD-00484,2023-05-27,East,Office Supplies,Envelopes,1351.72,8,0.05,71.42
+485,ORD-00485,2023-04-28,East,Technology,Phones,900.43,9,0.2,91.26
+486,ORD-00486,2024-10-23,Central,Furniture,Tables,951.46,1,0.0,206.14
+487,ORD-00487,2024-12-19,Central,Technology,Phones,372.2,8,0.05,15.93
+488,ORD-00488,2023-02-19,East,Office Supplies,Storage,1208.46,7,0.0,180.08
+489,ORD-00489,2024-11-13,South,Technology,Machines,386.28,9,0.05,80.01
+490,ORD-00490,2023-03-11,West,Furniture,Tables,1100.76,4,0.5,257.9
+491,ORD-00491,2024-03-18,South,Technology,Phones,308.41,7,0.05,-60.91
+492,ORD-00492,2024-09-14,East,Office Supplies,Paper,835.06,5,0.0,-129.65
+493,ORD-00493,2023-09-24,Central,Technology,Phones,321.71,8,0.0,-18.44
+494,ORD-00494,2024-05-28,West,Furniture,Bookcases,94.18,10,0.3,20.84
+495,ORD-00495,2024-09-24,West,Furniture,Furnishings,992.6,3,0.05,38.19
+496,ORD-00496,2024-10-19,East,Technology,Accessories,821.27,5,0.1,201.58
+497,ORD-00497,2024-06-08,West,Technology,Machines,979.36,3,0.2,-94.91
+498,ORD-00498,2023-09-26,West,Office Supplies,Binders,549.97,10,0.5,93.72
+499,ORD-00499,2023-02-27,South,Technology,Copiers,1187.54,5,0.5,222.97
+500,ORD-00500,2023-06-17,East,Technology,Phones,310.06,4,0.1,-52.52
+501,ORD-00501,2023-04-07,Central,Office Supplies,Storage,1306.19,9,0.05,132.06
+502,ORD-00502,2023-11-10,East,Technology,Phones,87.04,10,0.1,10.75
+503,ORD-00503,2023-11-03,West,Furniture,Tables,710.13,9,0.05,-21.11
+504,ORD-00504,2023-05-24,Central,Office Supplies,Binders,1082.03,8,0.2,298.38
+505,ORD-00505,2024-08-27,East,Technology,Accessories,481.08,6,0.1,-5.93
+506,ORD-00506,2024-03-23,South,Furniture,Furnishings,141.36,1,0.05,17.24
+507,ORD-00507,2024-10-05,West,Technology,Machines,169.03,1,0.2,-7.65
+508,ORD-00508,2024-09-26,West,Office Supplies,Storage,311.45,2,0.3,43.43
+509,ORD-00509,2024-10-30,West,Technology,Machines,1317.57,2,0.0,-212.07
+510,ORD-00510,2024-12-09,West,Technology,Phones,757.02,4,0.1,160.31
+511,ORD-00511,2024-12-14,Central,Office Supplies,Binders,900.82,7,0.3,150.19
+512,ORD-00512,2023-05-13,Central,Furniture,Tables,542.02,7,0.0,-64.81
+513,ORD-00513,2024-07-14,Central,Furniture,Chairs,681.63,5,0.5,200.99
+514,ORD-00514,2024-01-29,East,Furniture,Furnishings,320.17,7,0.5,27.82
+515,ORD-00515,2024-02-23,West,Technology,Copiers,626.99,1,0.0,25.91
+516,ORD-00516,2024-10-28,South,Furniture,Furnishings,801.85,4,0.1,-152.77
+517,ORD-00517,2024-07-08,South,Furniture,Bookcases,80.55,1,0.5,21.92
+518,ORD-00518,2024-03-03,East,Furniture,Tables,319.49,10,0.5,79.24
+519,ORD-00519,2023-07-21,West,Technology,Machines,228.5,6,0.2,-25.24
+520,ORD-00520,2023-07-18,East,Furniture,Bookcases,1181.8,9,0.1,-231.3
+521,ORD-00521,2023-05-28,South,Office Supplies,Binders,588.73,10,0.05,45.56
+522,ORD-00522,2024-08-05,Central,Technology,Copiers,718.06,2,0.3,-10.72
+523,ORD-00523,2024-07-19,Central,Technology,Phones,50.25,7,0.2,-10.08
+524,ORD-00524,2024-07-15,West,Furniture,Bookcases,988.12,4,0.05,-45.54
+525,ORD-00525,2024-03-09,South,Technology,Machines,825.42,3,0.2,169.07
+526,ORD-00526,2024-05-14,Central,Furniture,Bookcases,1285.04,7,0.1,-118.55
+527,ORD-00527,2024-09-09,Central,Office Supplies,Envelopes,937.27,9,0.1,-87.13
+528,ORD-00528,2023-02-01,East,Office Supplies,Labels,99.42,6,0.1,13.93
+529,ORD-00529,2023-06-04,West,Furniture,Chairs,283.05,4,0.2,-38.77
+530,ORD-00530,2023-02-06,Central,Technology,Machines,99.81,1,0.0,-1.32
+531,ORD-00531,2024-10-04,Central,Technology,Accessories,380.58,9,0.1,21.13
+532,ORD-00532,2023-06-26,East,Furniture,Bookcases,1040.08,7,0.1,38.93
+533,ORD-00533,2024-06-14,West,Office Supplies,Labels,773.31,7,0.05,-6.39
+534,ORD-00534,2023-11-09,West,Technology,Copiers,727.33,3,0.3,-83.82
+535,ORD-00535,2024-06-26,East,Furniture,Tables,1132.59,9,0.05,-26.68
+536,ORD-00536,2024-01-06,West,Technology,Phones,758.65,3,0.0,169.5
+537,ORD-00537,2023-04-18,East,Furniture,Furnishings,156.3,7,0.1,-0.77
+538,ORD-00538,2024-12-17,West,Office Supplies,Storage,376.29,5,0.05,-15.99
+539,ORD-00539,2024-12-20,Central,Office Supplies,Paper,48.13,3,0.0,-5.7
+540,ORD-00540,2024-05-26,Central,Technology,Phones,600.35,4,0.05,121.76
+541,ORD-00541,2024-10-24,East,Technology,Machines,456.89,4,0.5,143.56
+542,ORD-00542,2023-06-28,South,Office Supplies,Storage,1395.16,8,0.5,-299.23
+543,ORD-00543,2023-05-25,East,Technology,Copiers,123.28,8,0.1,15.75
+544,ORD-00544,2024-08-18,Central,Office Supplies,Paper,19.45,6,0.2,4.37
+545,ORD-00545,2024-01-13,West,Office Supplies,Storage,611.49,8,0.05,53.6
+546,ORD-00546,2023-05-05,South,Office Supplies,Labels,897.28,3,0.1,201.97
+547,ORD-00547,2024-08-20,South,Furniture,Tables,938.86,6,0.05,288.15
+548,ORD-00548,2024-05-19,Central,Furniture,Chairs,196.37,8,0.5,17.55
+549,ORD-00549,2024-09-09,Central,Furniture,Tables,825.15,8,0.2,-60.37
+550,ORD-00550,2024-05-24,Central,Office Supplies,Storage,926.48,4,0.0,45.38
+551,ORD-00551,2024-12-09,West,Furniture,Bookcases,461.4,6,0.0,130.19
+552,ORD-00552,2023-07-25,East,Furniture,Tables,1154.26,5,0.5,276.64
+553,ORD-00553,2024-04-12,Central,Office Supplies,Storage,669.0,9,0.0,209.11
+554,ORD-00554,2023-06-29,West,Technology,Accessories,735.1,1,0.0,-67.23
+555,ORD-00555,2024-04-17,Central,Furniture,Bookcases,580.55,3,0.0,-100.89
+556,ORD-00556,2023-11-18,East,Furniture,Furnishings,444.44,10,0.5,-67.39
+557,ORD-00557,2024-10-24,South,Furniture,Tables,1135.51,7,0.2,338.92
+558,ORD-00558,2023-01-11,West,Technology,Copiers,842.91,4,0.3,-83.04
+559,ORD-00559,2023-07-23,South,Technology,Copiers,849.48,1,0.05,-23.14
+560,ORD-00560,2023-12-31,Central,Technology,Copiers,169.43,1,0.0,-11.27
+561,ORD-00561,2023-01-10,South,Furniture,Furnishings,1000.68,7,0.5,41.45
+562,ORD-00562,2024-03-17,West,Office Supplies,Envelopes,284.81,4,0.1,-44.37
+563,ORD-00563,2023-07-27,West,Technology,Machines,541.07,2,0.1,132.63
+564,ORD-00564,2023-09-01,East,Technology,Copiers,1157.84,1,0.5,194.22
+565,ORD-00565,2024-04-29,East,Technology,Machines,474.38,5,0.2,70.74
+566,ORD-00566,2023-06-15,East,Technology,Accessories,1156.07,9,0.0,-16.49
+567,ORD-00567,2024-09-23,Central,Technology,Phones,386.38,10,0.3,54.79
+568,ORD-00568,2024-02-04,West,Furniture,Tables,1254.9,1,0.0,345.28
+569,ORD-00569,2023-05-01,West,Technology,Accessories,1051.03,4,0.5,-85.75
+570,ORD-00570,2024-03-30,Central,Furniture,Chairs,346.41,4,0.2,-8.89
+571,ORD-00571,2024-03-29,South,Office Supplies,Envelopes,990.05,5,0.0,137.33
+572,ORD-00572,2023-03-21,Central,Office Supplies,Binders,1284.27,1,0.3,270.01
+573,ORD-00573,2024-09-26,South,Technology,Phones,694.54,2,0.5,195.84
+574,ORD-00574,2023-12-03,West,Furniture,Bookcases,759.33,4,0.2,17.35
+575,ORD-00575,2024-06-08,East,Furniture,Bookcases,630.39,7,0.05,193.68
+576,ORD-00576,2024-10-21,Central,Technology,Phones,519.12,9,0.2,115.78
+577,ORD-00577,2024-07-19,Central,Furniture,Bookcases,1301.21,8,0.3,174.99
+578,ORD-00578,2024-08-20,South,Office Supplies,Paper,1150.75,7,0.0,-97.64
+579,ORD-00579,2024-09-12,South,Furniture,Chairs,1219.74,2,0.2,-52.65
+580,ORD-00580,2023-03-01,West,Office Supplies,Labels,265.05,7,0.5,28.36
+581,ORD-00581,2024-02-21,Central,Technology,Machines,672.67,2,0.1,109.26
+582,ORD-00582,2024-04-23,Central,Furniture,Tables,46.55,9,0.2,-10.16
+583,ORD-00583,2024-05-18,Central,Technology,Machines,311.47,5,0.3,74.49
+584,ORD-00584,2023-12-21,West,Technology,Machines,1153.23,3,0.3,-71.43
+585,ORD-00585,2023-09-07,West,Furniture,Furnishings,1085.92,10,0.5,241.33
+586,ORD-00586,2024-01-23,South,Office Supplies,Paper,314.07,2,0.05,72.31
+587,ORD-00587,2024-12-07,East,Furniture,Furnishings,159.14,10,0.3,12.74
+588,ORD-00588,2023-06-23,South,Office Supplies,Paper,1072.26,5,0.0,253.25
+589,ORD-00589,2024-12-27,South,Technology,Machines,721.85,8,0.3,11.04
+590,ORD-00590,2024-05-02,West,Technology,Accessories,304.59,5,0.3,-12.63
+591,ORD-00591,2024-01-22,South,Furniture,Tables,696.48,5,0.0,-149.1
+592,ORD-00592,2023-07-23,East,Office Supplies,Binders,195.74,3,0.2,-10.6
+593,ORD-00593,2024-06-09,South,Furniture,Tables,128.05,8,0.2,38.14
+594,ORD-00594,2024-01-26,South,Office Supplies,Envelopes,116.03,6,0.1,27.28
+595,ORD-00595,2023-08-08,South,Office Supplies,Labels,630.84,7,0.05,-16.62
+596,ORD-00596,2024-07-14,South,Office Supplies,Paper,66.86,2,0.05,-10.23
+597,ORD-00597,2024-06-18,Central,Technology,Machines,76.8,1,0.1,23.17
+598,ORD-00598,2023-12-09,South,Technology,Machines,1161.68,6,0.5,157.38
+599,ORD-00599,2024-02-04,West,Technology,Accessories,629.27,9,0.3,136.63
+600,ORD-00600,2023-01-18,South,Technology,Machines,1227.77,2,0.0,333.53
+601,ORD-00601,2023-04-28,South,Furniture,Tables,668.01,10,0.05,115.88
+602,ORD-00602,2023-04-06,West,Office Supplies,Envelopes,22.73,8,0.05,0.72
+603,ORD-00603,2023-07-11,West,Furniture,Chairs,31.06,9,0.05,4.42
+604,ORD-00604,2023-08-02,East,Furniture,Tables,193.06,2,0.05,8.88
+605,ORD-00605,2024-06-28,West,Office Supplies,Envelopes,570.73,5,0.3,-32.2
+606,ORD-00606,2024-03-06,West,Technology,Phones,404.72,1,0.1,3.28
+607,ORD-00607,2023-03-06,West,Technology,Phones,18.01,5,0.5,4.07
+608,ORD-00608,2024-11-12,Central,Furniture,Bookcases,239.04,5,0.05,32.89
+609,ORD-00609,2024-07-21,South,Office Supplies,Envelopes,591.47,6,0.05,-31.85
+610,ORD-00610,2024-06-16,Central,Technology,Phones,1023.58,9,0.5,-169.65
+611,ORD-00611,2024-12-25,West,Office Supplies,Labels,1014.2,3,0.2,102.37
+612,ORD-00612,2024-10-04,South,Furniture,Furnishings,900.94,5,0.3,240.7
+613,ORD-00613,2023-08-03,West,Furniture,Tables,55.01,3,0.3,-2.26
+614,ORD-00614,2023-03-30,Central,Furniture,Tables,586.03,1,0.3,-46.51
+615,ORD-00615,2024-05-21,South,Technology,Accessories,1110.33,1,0.05,132.13
+616,ORD-00616,2024-07-28,West,Technology,Machines,558.52,4,0.5,-48.56
+617,ORD-00617,2024-06-29,East,Technology,Copiers,442.51,2,0.1,-18.24
+618,ORD-00618,2023-06-03,Central,Furniture,Bookcases,1083.36,10,0.0,305.68
+619,ORD-00619,2023-07-11,West,Technology,Machines,1368.04,9,0.05,259.88
+620,ORD-00620,2024-09-30,South,Technology,Copiers,766.11,2,0.3,-69.38
+621,ORD-00621,2024-11-04,West,Technology,Machines,618.44,6,0.5,21.98
+622,ORD-00622,2024-01-17,West,Furniture,Furnishings,139.03,1,0.0,36.95
+623,ORD-00623,2024-01-03,East,Furniture,Bookcases,266.32,5,0.2,-25.25
+624,ORD-00624,2023-05-31,South,Furniture,Furnishings,923.86,2,0.1,-146.99
+625,ORD-00625,2024-06-02,South,Technology,Phones,1237.62,1,0.0,75.11
+626,ORD-00626,2024-06-14,West,Technology,Accessories,363.46,7,0.05,108.3
+627,ORD-00627,2023-10-01,Central,Furniture,Tables,1396.73,8,0.0,210.68
+628,ORD-00628,2024-07-01,East,Furniture,Tables,492.01,5,0.05,92.93
+629,ORD-00629,2023-02-09,Central,Technology,Phones,1056.99,7,0.2,-126.09
+630,ORD-00630,2023-09-18,East,Office Supplies,Labels,1050.35,9,0.3,300.28
+631,ORD-00631,2024-09-21,Central,Technology,Phones,778.34,2,0.1,-15.9
+632,ORD-00632,2024-06-19,West,Furniture,Tables,557.42,8,0.1,166.91
+633,ORD-00633,2023-08-26,Central,Office Supplies,Envelopes,725.2,8,0.2,104.94
+634,ORD-00634,2024-11-08,East,Technology,Phones,903.08,2,0.5,-139.56
+635,ORD-00635,2024-10-31,South,Technology,Accessories,980.07,10,0.0,165.84
+636,ORD-00636,2023-06-19,West,Technology,Machines,423.12,7,0.05,110.02
+637,ORD-00637,2023-10-27,East,Office Supplies,Paper,786.46,2,0.05,-168.93
+638,ORD-00638,2024-09-25,Central,Office Supplies,Labels,846.48,4,0.3,167.78
+639,ORD-00639,2024-11-09,Central,Furniture,Bookcases,1317.08,10,0.2,152.07
+640,ORD-00640,2023-10-14,Central,Office Supplies,Binders,299.53,8,0.3,90.74
+641,ORD-00641,2023-06-23,West,Technology,Phones,1212.06,2,0.3,-123.36
+642,ORD-00642,2024-01-10,West,Office Supplies,Envelopes,832.93,2,0.1,193.01
+643,ORD-00643,2024-04-29,East,Technology,Machines,570.78,3,0.3,-82.38
+644,ORD-00644,2024-06-22,South,Furniture,Furnishings,138.01,4,0.5,-8.12
+645,ORD-00645,2023-03-20,East,Office Supplies,Paper,83.62,6,0.5,7.55
+646,ORD-00646,2024-02-07,East,Technology,Phones,224.81,7,0.5,-17.51
+647,ORD-00647,2023-08-10,Central,Office Supplies,Binders,166.66,9,0.3,36.09
+648,ORD-00648,2023-10-12,South,Furniture,Chairs,940.5,4,0.2,18.19
+649,ORD-00649,2024-05-23,West,Office Supplies,Labels,842.95,1,0.0,-46.99
+650,ORD-00650,2023-05-29,South,Office Supplies,Binders,75.24,7,0.0,16.03
+651,ORD-00651,2023-08-21,West,Office Supplies,Envelopes,706.45,8,0.0,-111.08
+652,ORD-00652,2024-10-19,South,Technology,Phones,1304.95,2,0.05,-39.85
+653,ORD-00653,2024-07-17,West,Furniture,Bookcases,1083.4,6,0.0,334.77
+654,ORD-00654,2024-06-13,East,Technology,Phones,953.08,3,0.2,81.73
+655,ORD-00655,2023-01-15,West,Furniture,Furnishings,925.34,5,0.5,124.19
+656,ORD-00656,2023-04-26,South,Office Supplies,Labels,597.26,2,0.05,9.82
+657,ORD-00657,2024-04-01,South,Technology,Copiers,1160.85,3,0.0,357.34
+658,ORD-00658,2023-04-01,South,Technology,Copiers,337.31,2,0.05,58.33
+659,ORD-00659,2023-09-21,West,Technology,Accessories,436.65,10,0.0,-43.44
+660,ORD-00660,2023-05-25,Central,Office Supplies,Labels,43.26,9,0.2,-9.09
+661,ORD-00661,2024-04-04,Central,Technology,Machines,86.58,3,0.05,16.82
+662,ORD-00662,2024-11-15,Central,Furniture,Chairs,1113.75,4,0.3,-82.46
+663,ORD-00663,2023-02-05,East,Technology,Accessories,1152.09,2,0.0,-166.7
+664,ORD-00664,2023-12-01,South,Office Supplies,Labels,638.97,3,0.05,-74.14
+665,ORD-00665,2024-12-18,East,Office Supplies,Storage,790.05,10,0.3,-173.59
+666,ORD-00666,2024-06-11,Central,Office Supplies,Envelopes,217.14,10,0.2,66.42
+667,ORD-00667,2024-06-20,Central,Office Supplies,Paper,286.99,1,0.1,-58.15
+668,ORD-00668,2024-07-09,South,Furniture,Furnishings,943.04,9,0.3,281.22
+669,ORD-00669,2024-07-12,East,Technology,Copiers,391.2,2,0.0,-27.99
+670,ORD-00670,2023-02-03,South,Office Supplies,Paper,1212.15,9,0.2,-32.46
+671,ORD-00671,2023-12-17,South,Technology,Phones,400.6,4,0.5,112.09
+672,ORD-00672,2023-06-09,Central,Technology,Accessories,1370.68,9,0.5,357.79
+673,ORD-00673,2023-11-01,East,Furniture,Bookcases,220.57,3,0.1,25.04
+674,ORD-00674,2023-11-13,Central,Office Supplies,Labels,1090.89,8,0.1,-222.88
+675,ORD-00675,2023-09-27,Central,Office Supplies,Binders,254.61,2,0.05,59.01
+676,ORD-00676,2024-08-03,West,Office Supplies,Paper,480.61,10,0.1,114.35
+677,ORD-00677,2024-12-07,East,Technology,Accessories,578.05,1,0.0,-107.02
+678,ORD-00678,2023-08-23,West,Office Supplies,Envelopes,184.16,5,0.3,-30.24
+679,ORD-00679,2024-08-08,South,Office Supplies,Paper,873.32,3,0.3,241.41
+680,ORD-00680,2024-06-12,West,Furniture,Bookcases,34.65,2,0.2,2.29
+681,ORD-00681,2024-04-11,West,Technology,Machines,526.43,6,0.1,-55.04
+682,ORD-00682,2023-03-27,Central,Furniture,Tables,313.47,2,0.0,-19.07
+683,ORD-00683,2024-12-30,East,Office Supplies,Paper,1328.69,1,0.3,-160.96
+684,ORD-00684,2024-03-03,South,Technology,Accessories,139.36,1,0.3,33.69
+685,ORD-00685,2023-04-04,Central,Furniture,Furnishings,342.08,8,0.0,69.61
+686,ORD-00686,2023-06-29,Central,Furniture,Tables,327.17,9,0.2,61.98
+687,ORD-00687,2024-08-21,West,Technology,Machines,549.56,10,0.0,174.11
+688,ORD-00688,2024-09-23,East,Furniture,Chairs,1350.05,10,0.2,12.88
+689,ORD-00689,2023-12-30,South,Office Supplies,Envelopes,140.66,4,0.5,32.01
+690,ORD-00690,2024-03-15,West,Furniture,Chairs,1366.17,3,0.05,240.49
+691,ORD-00691,2024-06-07,South,Office Supplies,Storage,898.53,1,0.0,18.75
+692,ORD-00692,2023-02-01,Central,Office Supplies,Envelopes,374.98,10,0.1,75.42
+693,ORD-00693,2023-03-29,Central,Technology,Copiers,1164.5,6,0.1,66.61
+694,ORD-00694,2023-01-11,West,Technology,Phones,375.32,3,0.05,-43.22
+695,ORD-00695,2024-06-12,East,Office Supplies,Envelopes,333.52,2,0.3,92.24
+696,ORD-00696,2023-12-18,West,Office Supplies,Labels,256.5,10,0.3,-43.4
+697,ORD-00697,2023-09-17,West,Furniture,Bookcases,1392.68,10,0.05,51.19
+698,ORD-00698,2023-08-02,West,Technology,Machines,139.02,2,0.2,41.98
+699,ORD-00699,2023-02-17,South,Technology,Machines,608.99,10,0.3,-20.37
+700,ORD-00700,2023-12-06,Central,Technology,Machines,24.56,2,0.0,-4.61
+701,ORD-00701,2024-01-16,Central,Technology,Copiers,260.73,9,0.1,52.31
+702,ORD-00702,2023-10-07,South,Technology,Phones,569.32,8,0.3,138.86
+703,ORD-00703,2024-06-28,East,Furniture,Chairs,378.72,6,0.05,51.99
+704,ORD-00704,2023-07-16,Central,Office Supplies,Envelopes,186.28,2,0.0,28.7
+705,ORD-00705,2023-01-16,South,Technology,Phones,1207.45,1,0.2,301.41
+706,ORD-00706,2024-07-31,West,Technology,Phones,315.39,2,0.5,67.62
+707,ORD-00707,2023-10-27,East,Technology,Machines,153.44,4,0.2,1.83
+708,ORD-00708,2024-06-03,South,Furniture,Tables,566.44,5,0.2,-5.69
+709,ORD-00709,2023-09-28,East,Technology,Machines,442.41,3,0.05,24.89
+710,ORD-00710,2024-01-31,East,Office Supplies,Labels,451.75,8,0.5,-75.73
+711,ORD-00711,2023-11-21,Central,Office Supplies,Binders,107.76,8,0.0,12.73
+712,ORD-00712,2023-04-09,Central,Office Supplies,Envelopes,167.83,10,0.2,-24.93
+713,ORD-00713,2024-05-04,Central,Furniture,Tables,1165.45,6,0.2,107.6
+714,ORD-00714,2023-05-29,West,Technology,Accessories,101.62,2,0.2,16.17
+715,ORD-00715,2023-08-02,Central,Technology,Accessories,676.32,10,0.5,21.3
+716,ORD-00716,2024-09-29,Central,Office Supplies,Paper,556.16,6,0.2,-49.71
+717,ORD-00717,2024-03-22,South,Office Supplies,Labels,577.75,3,0.05,-93.06
+718,ORD-00718,2024-03-26,Central,Furniture,Tables,617.9,3,0.5,34.88
+719,ORD-00719,2023-05-29,East,Office Supplies,Binders,922.56,4,0.2,-29.89
+720,ORD-00720,2024-07-02,East,Furniture,Chairs,414.77,5,0.5,-45.77
+721,ORD-00721,2023-07-15,East,Furniture,Furnishings,112.81,5,0.2,-24.6
+722,ORD-00722,2023-10-22,Central,Office Supplies,Envelopes,292.1,6,0.1,-36.84
+723,ORD-00723,2024-04-19,Central,Furniture,Chairs,972.93,9,0.3,-211.33
+724,ORD-00724,2023-03-09,South,Technology,Accessories,369.43,8,0.5,46.67
+725,ORD-00725,2024-08-24,West,Furniture,Chairs,1176.97,8,0.2,374.53
+726,ORD-00726,2023-04-26,Central,Furniture,Tables,632.31,6,0.2,-112.83
+727,ORD-00727,2023-05-02,West,Technology,Copiers,992.89,7,0.3,-139.8
+728,ORD-00728,2024-06-13,East,Furniture,Bookcases,1006.72,9,0.2,-17.46
+729,ORD-00729,2023-02-15,Central,Technology,Machines,339.13,1,0.2,-14.59
+730,ORD-00730,2023-02-05,Central,Office Supplies,Binders,357.1,3,0.2,-36.74
+731,ORD-00731,2024-07-17,East,Office Supplies,Envelopes,1029.56,8,0.2,-22.29
+732,ORD-00732,2023-03-20,Central,Furniture,Chairs,1018.04,4,0.05,249.79
+733,ORD-00733,2024-12-22,East,Technology,Phones,713.24,10,0.1,39.98
+734,ORD-00734,2024-02-09,South,Furniture,Bookcases,484.57,6,0.0,-87.11
+735,ORD-00735,2024-01-02,Central,Office Supplies,Binders,184.68,3,0.3,-2.23
+736,ORD-00736,2023-08-01,South,Office Supplies,Envelopes,555.48,1,0.2,-57.05
+737,ORD-00737,2024-08-17,West,Furniture,Furnishings,912.62,2,0.3,82.1
+738,ORD-00738,2024-08-01,South,Furniture,Bookcases,1148.71,2,0.1,-114.6
+739,ORD-00739,2023-06-08,Central,Technology,Accessories,252.91,9,0.0,-4.21
+740,ORD-00740,2024-10-26,Central,Office Supplies,Binders,1279.71,2,0.3,363.27
+741,ORD-00741,2024-06-08,Central,Furniture,Chairs,1080.89,1,0.3,258.32
+742,ORD-00742,2024-06-14,Central,Technology,Machines,363.98,6,0.3,26.63
+743,ORD-00743,2024-06-08,West,Technology,Accessories,1077.99,5,0.0,137.59
+744,ORD-00744,2024-04-04,East,Office Supplies,Labels,549.6,1,0.5,-111.9
+745,ORD-00745,2023-01-10,Central,Furniture,Bookcases,421.68,4,0.3,-6.67
+746,ORD-00746,2023-01-30,West,Office Supplies,Paper,1185.31,7,0.3,-183.39
+747,ORD-00747,2024-09-23,East,Technology,Machines,1314.92,6,0.1,-234.83
+748,ORD-00748,2023-11-18,Central,Technology,Phones,849.28,6,0.05,161.23
+749,ORD-00749,2024-11-04,West,Technology,Accessories,692.32,4,0.1,-91.61
+750,ORD-00750,2023-07-02,Central,Office Supplies,Paper,1285.18,2,0.05,-51.91
+751,ORD-00751,2024-04-13,Central,Office Supplies,Storage,1216.55,5,0.05,372.29
+752,ORD-00752,2023-06-08,South,Office Supplies,Binders,202.61,10,0.05,60.03
+753,ORD-00753,2024-03-15,Central,Furniture,Chairs,164.36,9,0.0,32.64
+754,ORD-00754,2023-08-23,West,Furniture,Bookcases,1306.57,3,0.3,5.02
+755,ORD-00755,2024-04-13,Central,Office Supplies,Binders,221.07,2,0.5,54.3
+756,ORD-00756,2024-08-12,Central,Office Supplies,Storage,90.32,8,0.2,-19.38
+757,ORD-00757,2024-12-15,Central,Furniture,Tables,422.48,3,0.5,-34.59
+758,ORD-00758,2023-01-27,East,Technology,Copiers,139.53,5,0.0,-19.83
+759,ORD-00759,2023-10-05,South,Furniture,Bookcases,646.35,9,0.05,36.45
+760,ORD-00760,2023-08-31,Central,Office Supplies,Paper,409.27,9,0.0,82.53
+761,ORD-00761,2023-06-11,South,Technology,Copiers,206.67,8,0.3,-3.3
+762,ORD-00762,2023-01-19,East,Furniture,Bookcases,23.42,4,0.1,-0.16
+763,ORD-00763,2024-03-20,South,Technology,Copiers,950.03,5,0.1,303.76
+764,ORD-00764,2023-03-16,East,Technology,Machines,589.27,3,0.5,157.7
+765,ORD-00765,2023-06-30,Central,Office Supplies,Labels,270.53,5,0.5,-39.62
+766,ORD-00766,2023-12-24,East,Furniture,Furnishings,677.36,10,0.3,-135.0
+767,ORD-00767,2024-01-03,West,Technology,Phones,305.93,1,0.2,-20.94
+768,ORD-00768,2023-06-05,East,Office Supplies,Envelopes,1116.08,4,0.0,-156.19
+769,ORD-00769,2023-01-10,East,Technology,Copiers,1094.64,1,0.0,280.25
+770,ORD-00770,2024-09-04,South,Furniture,Bookcases,530.86,3,0.1,-99.51
+771,ORD-00771,2023-07-05,South,Technology,Machines,1329.0,8,0.3,-61.38
+772,ORD-00772,2023-09-01,East,Technology,Machines,318.41,2,0.3,-15.03
+773,ORD-00773,2024-03-27,West,Furniture,Chairs,608.27,7,0.05,72.63
+774,ORD-00774,2024-11-03,East,Technology,Copiers,404.1,7,0.1,124.99
+775,ORD-00775,2024-07-09,West,Furniture,Chairs,1395.58,5,0.0,309.74
+776,ORD-00776,2024-01-22,South,Furniture,Tables,286.5,10,0.5,12.03
+777,ORD-00777,2023-07-25,West,Technology,Accessories,181.97,8,0.5,35.74
+778,ORD-00778,2023-03-18,East,Office Supplies,Binders,499.7,1,0.5,72.65
+779,ORD-00779,2023-04-10,South,Technology,Copiers,842.34,7,0.3,-158.2
+780,ORD-00780,2023-10-20,South,Furniture,Bookcases,990.82,10,0.1,196.58
+781,ORD-00781,2024-02-02,West,Office Supplies,Labels,21.2,4,0.05,-3.3
+782,ORD-00782,2024-10-27,South,Furniture,Bookcases,625.42,5,0.3,-128.04
+783,ORD-00783,2024-11-29,East,Office Supplies,Storage,183.76,2,0.1,20.55
+784,ORD-00784,2024-08-05,Central,Office Supplies,Binders,1277.34,3,0.3,204.31
+785,ORD-00785,2024-03-31,Central,Technology,Machines,342.09,10,0.3,-27.04
+786,ORD-00786,2023-07-11,West,Furniture,Bookcases,1299.55,5,0.1,178.36
+787,ORD-00787,2023-11-01,East,Technology,Accessories,299.74,10,0.0,-26.3
+788,ORD-00788,2024-08-02,Central,Furniture,Tables,532.71,8,0.1,31.94
+789,ORD-00789,2023-11-11,Central,Office Supplies,Paper,759.24,3,0.5,60.65
+790,ORD-00790,2023-09-04,Central,Technology,Copiers,298.17,7,0.1,-62.37
+791,ORD-00791,2024-12-13,West,Technology,Copiers,190.17,3,0.05,58.91
+792,ORD-00792,2023-06-27,Central,Office Supplies,Binders,153.65,5,0.5,-18.25
+793,ORD-00793,2024-08-01,Central,Technology,Accessories,739.57,3,0.1,-85.7
+794,ORD-00794,2024-08-02,South,Office Supplies,Binders,582.6,2,0.5,169.22
+795,ORD-00795,2024-08-24,West,Office Supplies,Labels,548.92,9,0.1,-36.34
+796,ORD-00796,2024-07-14,South,Office Supplies,Binders,95.87,4,0.1,11.31
+797,ORD-00797,2024-04-28,Central,Office Supplies,Binders,670.6,2,0.2,106.62
+798,ORD-00798,2023-10-14,West,Office Supplies,Envelopes,535.96,3,0.2,34.38
+799,ORD-00799,2024-12-03,East,Technology,Accessories,361.8,7,0.05,44.82
+800,ORD-00800,2023-09-09,Central,Furniture,Tables,145.52,4,0.05,5.8
